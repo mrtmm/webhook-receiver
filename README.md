@@ -28,6 +28,7 @@ or WooCommerce as their selling platform, and thus have no need or
 intention to deploy [Open edX
 E-Commerce](https://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/ecommerce/).
 
+This repository was previously hosted under the `hastexo` GitHub organization, and moved to `cleura` in December 2025 as part of a routine repository consolidation.
 
 ## Open edX Configuration Requirements
 
@@ -85,7 +86,7 @@ The easiest way for platform administrators to deploy the Open edX Webhooks
 app and its dependencies to an Open edX installation is to deploy a
 minimal server that exposes the desired endpoint(s).
 
-A [Tutor plugin](https://github.com/hastexo/tutor-contrib-webhook-receiver)
+A [Tutor plugin](https://github.com/cleura/tutor-contrib-webhook-receiver)
 exists to facilitate this, for Open edX platforms managed by
 [Tutor](https://docs.tutor.edly.io/).
 

@@ -13,7 +13,7 @@ setup(
     description='edX Webhooks: a webhook processor interfacing with Open edX',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/hastexo/webhook-receiver',
+    url='https://github.com/cleura/webhook-receiver',
     author='hastexo',
     author_email='pypi@hastexo.com',
     license='AGPL-3.0',
