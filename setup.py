@@ -30,11 +30,11 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'celery>=3.1.25',
-        'django>=2.2',
-        'django-celery>=3.2.1',
+        'celery',
+        'django',
+        'django-celery',
         'django_fsm',
-        'edx-rest-api-client>=1.9.2',
+        'edx-rest-api-client',
     ],
     setup_requires=[
         'setuptools_scm',
